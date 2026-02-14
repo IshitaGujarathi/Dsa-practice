@@ -6,7 +6,7 @@ public class min {
         int [] arr= new int[5];
 
         System.out.println("Enter the elements of array:");
-        int min = Integer.MAX_VALUE1;
+        int min = Integer.MAX_VALUE;
         for(int i =0 ; i< arr.length ;i++){
             arr[i] = sc.nextInt();
             if(arr[i] < min){
