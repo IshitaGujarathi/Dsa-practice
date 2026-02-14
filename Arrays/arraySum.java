@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class arraySum {
     public static void main(String[] args) {
 
@@ -16,6 +15,7 @@ public class arraySum {
         }
 
         System.out.println("The sum of the array is: " + sum);
+        sc.close();
     }
 }
   
