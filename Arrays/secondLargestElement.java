@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// finding Second largest element from array without sorting it!!
 
 public class secondLargestElement {
    public static void main(String[] args) {
