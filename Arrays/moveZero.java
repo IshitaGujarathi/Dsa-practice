@@ -26,7 +26,6 @@ public class moveZero {
                 j++;
             }
         }
-
         System.out.println("After moving zeros:");
 
         for(int i = 0; i < n; i++){
