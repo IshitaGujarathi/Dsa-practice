@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class rotateFrom1st {
+public class rotateFromDth {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
