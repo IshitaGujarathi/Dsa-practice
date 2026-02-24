@@ -5,7 +5,7 @@ public class intersectionOfArray {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the size of matrix:");
+        System.out.print("Enter size of matrix: ");
         int n = sc.nextInt();
 
         int[][] arr = new int[n][n];
@@ -17,32 +17,51 @@ public class intersectionOfArray {
             }
         }
 
-        boolean found = false;
+        int[] result = new int[n];   
+        int index = 0;               
 
-        for(int col = 0; col < n; col++){
+        for(int col = 0; col < n; col++) {
 
-            int element = arr[0][col]; 
-            int count = 1;
+            int element = arr[0][col];
 
-            for(int row = 1; row < n; row++){
+            boolean alreadyChecked = false;
+            for(int x = 0; x < col; x++) {
+                if(arr[0][x] == element) {
+                    alreadyChecked = true;
+                    break;
+                }
+            }
+            if(alreadyChecked) continue;
 
-                for(int k = 0; k < n; k++){
-                    if(arr[row][k] == element){
-                        count++;
+            int row;
+            for(row = 1; row < n; row++) {
+
+                boolean present = false;
+
+                for(int k = 0; k < n; k++) {
+                    if(arr[row][k] == element) {
+                        present = true;
                         break;
                     }
                 }
+
+                if(!present)
+                    break;
             }
 
-            if(count == n){
-                System.out.println("Common element is: " + element);
-                found = true;
-                break;
+            if(row == n) {         
+                result[index] = element;
+                index++;
             }
         }
 
-        if(!found){
-            System.out.println("No common element found.");
+        if(index == 0) {
+            System.out.println("No common elements found.");
+        } else {
+            System.out.print("Common elements: ");
+            for(int i = 0; i < index; i++) {
+                System.out.print(result[i] + " ");
+            }
         }
 
         sc.close();
