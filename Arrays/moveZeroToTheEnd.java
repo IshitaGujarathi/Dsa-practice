@@ -1,7 +1,7 @@
 // import java.util.*;
 // // Brute force Approach
 
-// public class removeZeroToTheEnd {
+// public class moveZeroToTheEnd {
 //     public static void main(String[] args) {
 
 //         Scanner sc = new Scanner(System.in);
@@ -44,7 +44,7 @@
 // Optimal Solution
 import java.util.*;
 
-public class removeZeroToTheEnd {
+public class moveZeroToTheEnd {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
