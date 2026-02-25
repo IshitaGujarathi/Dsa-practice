@@ -1,3 +1,4 @@
+// Brute Force Solution
 import java.util.*;
 
 public class findMissingElement {
@@ -31,3 +32,4 @@ public class findMissingElement {
         sc.close();
     }
 }
+
