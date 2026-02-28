@@ -1,5 +1,6 @@
 package Patterns;
 import java.util.*;
+// triangularFormNumbersAlongWithRowNumber
 public class triangularFormNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
