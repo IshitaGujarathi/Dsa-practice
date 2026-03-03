@@ -1,7 +1,7 @@
 package Patterns;
 import java.util.*;
 
-public class StarWithSquareSpace {
+public class butterflySquare {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of n:");
