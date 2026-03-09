@@ -1,6 +1,10 @@
 import java.util.*;
 
-public class MaxSubArray {
+public class MaxSubArraySum {
+    // here Kadane's Algorithm is get used...
+    // in which we just have to neglate the zero sum...
+    // and sum have to get back to zero 
+    // compare with max and sum 
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
