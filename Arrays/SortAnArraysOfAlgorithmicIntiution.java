@@ -1,5 +1,12 @@
 import java.util.*;
 public class SortAnArraysOfAlgorithmicIntiution {
+    // here we used dultch national flag algorithm 
+    // in which there are having 3 var i.e mid ,low.high....
+    // from 0 to low -1 = 0(or lefmost)
+    // from low to mid -1 = 1 
+    // from mid to high = any from the 0's 1's and 2's (that we have to sort )
+    // form high=1 to n-1 =2 (rightmost)
+    // then here is the whole code to analyze the algo 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Size of array n:");
