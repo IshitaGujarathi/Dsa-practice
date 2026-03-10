@@ -1,6 +1,9 @@
 import java.util.*;
 
 public class rearrangeArrayNaddRemainAtEnd {
+    // this is applicable for all pos neg and equal values of pos and neg and the remaining either pos or neg goes
+    // to the end of the array
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
