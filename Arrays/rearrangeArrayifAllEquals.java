@@ -1,5 +1,6 @@
 import java.util.*;
 public class rearrangeArrayifAllEquals{
+    // in this only equal pos and neg are perfectly get arranged in prder relate to sign..
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("size of array:");
