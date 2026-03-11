@@ -1,6 +1,5 @@
 import java.util.*;
-public class power {
-
+public class power { 
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,7 +14,6 @@ public class power {
 
         sc.close();
     }
-
     public static void power(int x, int n) {
         int ans = 1;
 
