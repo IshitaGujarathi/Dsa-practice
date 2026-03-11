@@ -1,5 +1,9 @@
 import java.util.*;
 public class nextPermutataion {
+    // in this there are mainly 3 step to reach the next permutation i.e
+    // 1) finding the brkpt by using condition a[i] < a[i+1] to understand the index where we have to make changes 
+    // 2) finding the element greater than the the ind ...and less than the remaining element and swap them with each other 
+    // 3) arrange the remaining element in shortest order 
 
      static void reverse(int[] arr, int start, int end){
         while(start < end){
