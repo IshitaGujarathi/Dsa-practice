@@ -5,7 +5,7 @@ public class nextPermutataion {
     // 2) finding the element greater than the the ind ...and less than the remaining element and swap them with each other 
     // 3) arrange the remaining element in shortest order 
     
-
+    // reverse function to reverse the array when the ind is -1
      static void reverse(int[] arr, int start, int end){
         while(start < end){
             int temp = arr[start];
