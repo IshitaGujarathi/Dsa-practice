@@ -1,6 +1,6 @@
 import java.util.*;
-
 public class power {
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class power {
         System.out.println("Enter the value of number x:");
         int x = sc.nextInt();
 
-        power(x, n);   // calling the method
+        power(x, n);  
 
         sc.close();
     }
