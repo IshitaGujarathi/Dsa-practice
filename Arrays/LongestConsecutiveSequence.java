@@ -25,7 +25,6 @@ public class LongestConsecutiveSequence {
 
         for(int num : set){
 
-            // check start of sequence
             if(!set.contains(num - 1)){
 
                 int current = num;
