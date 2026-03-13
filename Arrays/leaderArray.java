@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class leaderArray {
+    // take the backward approach and the rightmost element is the 1st leader
+    // then traverse to find another leader which is greater than all right element from it
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
