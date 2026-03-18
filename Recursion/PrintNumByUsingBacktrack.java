@@ -1,5 +1,6 @@
 package Recursion;
 import java.util.*;
+// in which we are printing num from 1 to n using back tracking
 public class PrintNumByUsingBacktrack{
     public static void printNum(int i,int N){
         if(i < 1){
