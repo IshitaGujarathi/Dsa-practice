@@ -13,7 +13,6 @@ public class PrintNumByUsingBacktrack{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of N:");
         int N = sc.nextInt();
-
         printNum(N ,N);
         sc.close();
     }
