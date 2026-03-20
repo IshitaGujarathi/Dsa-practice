@@ -15,5 +15,6 @@ public class PrintNumByUsingBacktrack{
         int N = sc.nextInt();
         printNum(N ,N);
         sc.close();
+        
     }
 }
