@@ -3,6 +3,7 @@ import java.util.*;
 public class printNumbybacktrackingfromN {
     public class printVal(int n , int i ){
         if(i==0){
+            
             return;
         }
         printVal(N  , i+1);
