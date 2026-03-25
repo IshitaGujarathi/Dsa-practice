@@ -15,7 +15,6 @@ public class printLinearlyNum {
         int N = sc.nextInt();
         int num = 0;
         printNum(num +1,N);
-
         sc.close();
 
     }
