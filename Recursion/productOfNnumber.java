@@ -1,5 +1,6 @@
 package Recursion;
 import java.util.*;
+// parameterized
 public class productOfNnumber {
     public static void printMul(int i,int mul) {
         if(i==1){
@@ -16,5 +17,5 @@ public class productOfNnumber {
         sc.close();
     }
 
-
+    
 }
