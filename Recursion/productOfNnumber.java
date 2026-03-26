@@ -15,4 +15,6 @@ public class productOfNnumber {
         printMul(N, 1);
         sc.close();
     }
+
+
 }
