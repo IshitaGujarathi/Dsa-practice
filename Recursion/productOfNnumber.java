@@ -10,6 +10,7 @@ public class productOfNnumber {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the value of N:");
         int N = sc.nextInt();
         printMul(N, 1);
         sc.close();
