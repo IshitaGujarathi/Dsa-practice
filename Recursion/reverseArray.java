@@ -5,10 +5,10 @@ public class reverseArray {
 
     public static void revArray(int[] arr, int l, int r){
         if(l >= r){
-            return;
+            return; //if l and r crosses or goes beyond each other then return 
         }
 
-        int temp = arr[l];
+        int temp = arr[l];    //swap 
         arr[l] = arr[r];
         arr[r] = temp;
 
