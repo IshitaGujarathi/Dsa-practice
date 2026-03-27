@@ -25,7 +25,7 @@ public class pallindromeUsingRecursion {
             arr[i] = sc.next().charAt(0);
         }
 
-        if(pallindrome(arr, 0, n-1)){     
+        if(pallindrome(arr, 0, n-1)){    //check condition and function call  
             System.out.println("Palindrome");
         } else {
             System.out.println("Not Palindrome");
