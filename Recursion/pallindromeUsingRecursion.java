@@ -5,12 +5,12 @@ public class pallindromeUsingRecursion {
 
     public static boolean pallindrome(char[] arr, int l, int r){
         if(l >= r){
-            return true;
+            return true;      //uses bool for stating that the pallindrome or not !!
         }
         if(arr[l] != arr[r]){
             return false;
         }
-        return pallindrome(arr, l+1, r-1);
+        return pallindrome(arr, l+1, r-1);  //recursion call
     }
 
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class pallindromeUsingRecursion {
             arr[i] = sc.next().charAt(0);
         }
 
-        if(pallindrome(arr, 0, n-1)){
+        if(pallindrome(arr, 0, n-1)){     
             System.out.println("Palindrome");
         } else {
             System.out.println("Not Palindrome");
