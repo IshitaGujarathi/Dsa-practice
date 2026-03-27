@@ -12,7 +12,7 @@ public class reverseArray {
         arr[l] = arr[r];
         arr[r] = temp;
 
-        revArray(arr, l + 1, r - 1);
+        revArray(arr, l + 1, r - 1);// recursion function call
     }
 
     public static void main(String[] args) {
