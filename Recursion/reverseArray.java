@@ -27,7 +27,7 @@ public class reverseArray {
             arr[i] = sc.nextInt();
         }
 
-        revArray(arr, 0, N - 1);
+        revArray(arr, 0, N - 1); //function call
 
         System.out.println("Reversed array:");
         for(int i = 0; i < N; i++){
