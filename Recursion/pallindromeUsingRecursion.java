@@ -30,7 +30,6 @@ public class pallindromeUsingRecursion {
         } else {
             System.out.println("Not Palindrome");
         }
-
         sc.close();
     }
 }
