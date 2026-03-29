@@ -1,6 +1,5 @@
 package Recursion;
 import java.util.*;
-
 public class pallindromeUsingRecursion {
     // using parameterized recusrion 
     public static boolean pallindrome(char[] arr, int l, int r){
@@ -12,7 +11,6 @@ public class pallindromeUsingRecursion {
         }
         return pallindrome(arr, l+1, r-1);  //recursion call
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
