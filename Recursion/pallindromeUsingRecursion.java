@@ -2,7 +2,7 @@ package Recursion;
 import java.util.*;
 
 public class pallindromeUsingRecursion {
-
+    // using parameterized recusrion 
     public static boolean pallindrome(char[] arr, int l, int r){
         if(l >= r){
             return true;      //uses bool for stating that the pallindrome or not !!
