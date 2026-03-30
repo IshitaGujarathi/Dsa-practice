@@ -4,7 +4,8 @@ public class pallindromeUsingRecursion {
     // using parameterized recusrion 
     public static boolean pallindrome(char[] arr, int l, int r){
         if(l >= r){
-            return true;      //uses bool for stating that the pallindrome or not !!
+            return true;  
+            //uses bool for stating that the pallindrome or not !!
         }
         if(arr[l] != arr[r]){
             return false;
