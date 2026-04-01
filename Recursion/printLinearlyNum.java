@@ -9,13 +9,12 @@ public class printLinearlyNum {
         System.out.println(num);
         printNum(num +1, N);
     }
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of N:");
         int N = sc.nextInt();
         int num = 0;
         printNum(num +1,N);
         sc.close();
-
     }
 }
