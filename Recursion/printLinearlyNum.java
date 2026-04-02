@@ -7,7 +7,6 @@ public class printLinearlyNum {
         if(num >= N){
             return;
         }
-        
         System.out.println(num);
         printNum(num +1, N);
     }
