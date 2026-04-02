@@ -1,5 +1,6 @@
 package Recursion;
 import java.util.*;
+
 // in this have to print 1 to n using recursion function 
 public class printLinearlyNum {
     public static void printNum(int num,int N) {
