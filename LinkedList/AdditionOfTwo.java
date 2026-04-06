@@ -7,16 +7,6 @@ public class AdditionOfTwo{
 
 
 
-    
-    
-
-
-    
-
-
-
-
-
 
 
 
