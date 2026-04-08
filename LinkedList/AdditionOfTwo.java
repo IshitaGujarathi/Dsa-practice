@@ -4,15 +4,6 @@ public class AdditionOfTwo{
 ///we'll back soon//
 
     }
-
-
-
-    
-
-
-
-
-
-
+    //sorry stil not able to come !! we'll meet soon !!
 
 }
