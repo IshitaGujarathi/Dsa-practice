@@ -66,20 +66,18 @@ public class AdditionOfTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // First list
+      
         System.out.print("Enter number of nodes for first list: ");
         int n1 = sc.nextInt();
         ListNode l1 = createList(sc, n1);
 
-        // Second list
         System.out.print("Enter number of nodes for second list: ");
         int n2 = sc.nextInt();
         ListNode l2 = createList(sc, n2);
 
-        // Add lists
         ListNode result = addTwoNumbers(l1, l2);
 
-        // Output
+     
         System.out.print("Result: ");
         printList(result);
 
