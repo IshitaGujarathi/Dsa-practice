@@ -10,8 +10,7 @@ public class AdditionOfTwo {
             this.val = val;
         }
     }
-
-    // Function to add two linked lists
+    
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
