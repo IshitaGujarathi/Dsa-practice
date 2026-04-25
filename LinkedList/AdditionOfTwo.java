@@ -38,7 +38,6 @@ public class AdditionOfTwo {
         return dummy.next;
     }
 
-    // Function to create linked list from user input
     public static ListNode createList(Scanner sc, int n) {
         System.out.println("Enter digits (in reverse order):");
 
@@ -53,7 +52,6 @@ public class AdditionOfTwo {
         return head;
     }
 
-    // Function to print list
     public static void printList(ListNode head) {
         while (head != null) {
             System.out.print(head.val + " ");
@@ -62,7 +60,6 @@ public class AdditionOfTwo {
         System.out.println();
     }
 
-    // 🔥 MAIN METHOD
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
