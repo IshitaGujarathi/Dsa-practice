@@ -1,44 +1,56 @@
-import java.util.*;
-public class AdditionOfTwo{
-    public static void main(String[] args){
-///we'll back soon//
+public class AdditionOfTwo {
 
+    static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int val) {
+            this.val = val;
+        }
     }
-    //sorry still not able to come !! we'll meet soon !!
-    // darling hold my hand ......
+    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        int carry = 0;
 
+        while (l1 != null || l2 != null || carry != 0) {
+            int sum = carry;
 
-    
+            if (l1 != null) {
+                sum += l1.val;
+                l1 = l1.next;
+            }
 
+            if (l2 != null) {
+                sum += l2.val;
+                l2 = l2.next;
+            }
 
-    //hey u have to listen to me now...sorry i'm get stuck in some academic work +exam and many more so we'll meet soon baby sorry!
+            carry = sum / 10;
+            current.next = new ListNode(sum % 10);
+            current = current.next;
+        }
 
-    // sorry for ignoring you but it's not intentional its genuine 
+        return dummy.next;
+    }
 
+  
+    public static void main(String[] args) {
 
+        ListNode l1 = new ListNode(2);
+        l1.next = new ListNode(4);
+        l1.next.next = new ListNode(3);
 
-    // hiii sooryyyyyyyyyyyyy still have to side u...
+        ListNode l2 = new ListNode(5);
+        l2.next = new ListNode(6);
+        l2.next.next = new ListNode(4);
 
-// sorrryyyyyyy
+        ListNode result = addTwoNumbers(l1, l2);
 
-
-// sorry babyyyyyyy
-
-// sorry once again i'll ba k from tomorrow !!!!....
-
-// sorry !!!!!!!!!!!!!
-// plz try to understand 
-// please please please 
-// hellllloooooooooo vs code i'm back!!!
-// hiiiiiiiiiiiii
-// i'm not ignoring you but i'm not have that much capacity too that much sorrry  for today!!
-// we'll meet soon!!............
-//    hiiiiii..................
-    // sorry baby sooo sorry but from tomorrow i'll be with youuu
-    
-    // sorry baby some days more !!!
-
-    // .....................................................
-    // ............................................................
-
+        // Print result
+        while (result != null) {
+            System.out.print(result.val + " ");
+            result = result.next;
+        }
+    }
 }
