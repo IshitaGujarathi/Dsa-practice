@@ -78,5 +78,6 @@ public class AdditionOfTwo {
         printList(result);
 
         sc.close();
+        
     }
 }
