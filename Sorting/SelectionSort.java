@@ -17,8 +17,8 @@ public class SelectionSort {
 
         for(int j = 0; j <= n-2;j++){
             int min = j;
-            
-            for(int k =j ;j< n-1; k++){
+
+            for(int k =j ;k <= n-1; k++){
                 if(arr[k] < arr[min]){
                     min = k;
                 
@@ -27,17 +27,13 @@ public class SelectionSort {
                 arr[j] = temp;
 
                 }
+                System.out.println("Sorted Array:");
+                for(int i =0; i< n;i++){
+                    System.out.println(arr[i] +" ");
+
+                }
             }
         }
-
-
-
-
-
-
-
-
-
         sc.close();
 
     }
