@@ -39,9 +39,4 @@ public class SelectionSort {
     }
 }
 
-
-
-
-
-
 // key concept is find min nd swap !!
