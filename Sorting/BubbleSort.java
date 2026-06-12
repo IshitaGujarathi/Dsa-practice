@@ -28,3 +28,5 @@ public class BubbleSort {
     }
 
 }
+
+// opposite to the selection sort it first find the max and swap with adjacent 
