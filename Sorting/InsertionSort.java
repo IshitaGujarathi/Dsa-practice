@@ -29,3 +29,6 @@ public class InsertionSort{
         sc.close();
     }
 }
+
+//  this is the algo which select the element 
+//  and try to place that element on the exact position as they belong 
