@@ -75,3 +75,5 @@ public class MergeSort {
         sc.close();
     }
 }
+// merge sort is the divide and merge algorithm
+// in which array divides upto the leaf element and then merge them according to the sorted manner 
