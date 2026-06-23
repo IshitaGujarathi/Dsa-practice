@@ -70,3 +70,13 @@ public class QuickSort {
         sc.close();
     }
 }
+
+
+
+
+
+
+
+
+
+
