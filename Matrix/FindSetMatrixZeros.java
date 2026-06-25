@@ -66,3 +66,7 @@ public class FindSetMatrixZeros {
         sc.close();
     }
 }
+
+
+// here we tried to identify the zeros in the matrix then modify the row and coloumn according to that
+// like if zero occur then the elemnet in that row and col are also reolaced with zero 
