@@ -1,7 +1,7 @@
 package Matrix;
 import java.util.*;
 public class FindSetMatrixZeros {
-     public static void main(String[] args) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -21,27 +21,36 @@ public class FindSetMatrixZeros {
             }
         }
 
-        int[] row = new int[m];
-        int[] col = new int[n];
+        int col0 = 1;
 
-        // Mark rows and columns containing 0
+        // Step 1: Mark rows and columns
         for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
+
+            if(matrix[i][0] == 0) {
+                col0 = 0;
+            }
+
+            for(int j = 1; j < n; j++) {
 
                 if(matrix[i][j] == 0) {
-                    row[i] = 1;
-                    col[j] = 1;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        // Set matrix elements to 0
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
+        // Step 2: Update matrix from bottom-right
+        for(int i = m - 1; i >= 0; i--) {
 
-                if(row[i] == 1 || col[j] == 1) {
+            for(int j = n - 1; j >= 1; j--) {
+
+                if(matrix[i][0] == 0 || matrix[0][j] == 0) {
                     matrix[i][j] = 0;
                 }
+            }
+
+            if(col0 == 0) {
+                matrix[i][0] = 0;
             }
         }
 
