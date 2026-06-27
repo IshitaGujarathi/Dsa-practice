@@ -53,3 +53,6 @@ public class RotateMatrixin90 {
 
     }
 }
+
+// in this we rotate the whole matrix by 90 in right .....
+
