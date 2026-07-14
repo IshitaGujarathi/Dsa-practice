@@ -17,6 +17,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -27,6 +28,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 ## Recursion
@@ -37,6 +39,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
