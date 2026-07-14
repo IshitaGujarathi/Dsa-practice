@@ -26,6 +26,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -58,4 +59,16 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
