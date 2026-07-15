@@ -1,41 +1,34 @@
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        
+        Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         
-        Arrays.sort(nums); 
-        
-        for(int i = 0; i < nums.length - 2; i++){
+        for (int i = 0; i < nums.length - 2; i++) {
+            if (nums[i] > 0) {
+                // array is sorted
+                // now there is no way that sum will be zero
+                break;
+            }
             
-            if(i > 0 && nums[i] == nums[i - 1]) continue;
+            int sum = 0 - nums[i];
+            int start = i + 1;
+            int end = nums.length - 1;
             
-            int left = i + 1;
-            int right = nums.length - 1;
-            
-            while(left < right){
+            if (i == 0 || (i > 0 && nums[i] != nums[i-1])) {
                 
-                int sum = nums[i] + nums[left] + nums[right];
-                
-                if(sum == 0){
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    
-                    // Skip duplicate left values
-                    while(left < right && nums[left] == nums[left + 1]) left++;
-                    
-                    // Skip duplicate right values
-                    while(left < right && nums[right] == nums[right - 1]) right--;
-                    
-                    left++;
-                    right--;
-                }
-                
-                else if(sum < 0){
-                    left++;
-                }
-                
-                else{
-                    right--;
+                while (start < end) {
+                    if (nums[start] + nums[end] == sum) {
+                       
+                        result.add(Arrays.asList(nums[i], nums[start], nums[end]));
+                        
+                        while (start < end  && nums[start] == nums[start+1]) start++;
+                        while (start < end && nums[end] == nums[end-1]) end--;
+                        
+                        start++;
+                        end--;
+                    }
+                    else if (nums[start] + nums[end] < sum) start++;
+                    else end--;
                 }
             }
         }
