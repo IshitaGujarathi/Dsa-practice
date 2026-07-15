@@ -13,6 +13,7 @@ Daily DSA practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
