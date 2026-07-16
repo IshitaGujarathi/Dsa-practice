@@ -12,6 +12,7 @@ Daily DSA practice problems and solutions
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Daily DSA practice problems and solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -91,4 +94,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
