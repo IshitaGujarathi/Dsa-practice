@@ -7,8 +7,7 @@ public class Solution {
             int index = sc[i]-'A';
             count[index]++;
             maxCount = Math.max(maxCount, count[index]);
-            // i - start means the current longest length, if the (maxCount + k) <= (the current longest length), we move whole windows right.
-            // otherwise the start stays at current position, but the "i" moves, means next round the longest length will increase.
+            
             if(maxCount + k <= i - start){
                 int indexStart = sc[start] - 'A';
                 count[indexStart]--;
