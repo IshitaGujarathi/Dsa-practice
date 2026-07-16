@@ -11,6 +11,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
