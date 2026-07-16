@@ -38,6 +38,7 @@ Daily DSA practice problems and solutions
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +99,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
