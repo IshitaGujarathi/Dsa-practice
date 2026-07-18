@@ -5,7 +5,7 @@ class Solution {
         
         for (int i = 0; i < nums.length - 2; i++) {
             if (nums[i] > 0) {
-                break;
+                continue;
             }
             
             int sum = 0 - nums[i];
