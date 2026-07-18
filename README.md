@@ -15,6 +15,7 @@ Daily DSA practice problems and solutions
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
+| [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -26,6 +27,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
