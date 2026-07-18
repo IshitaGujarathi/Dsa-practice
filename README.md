@@ -50,6 +50,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +63,7 @@ Daily DSA practice problems and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
@@ -87,6 +89,7 @@ Daily DSA practice problems and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
