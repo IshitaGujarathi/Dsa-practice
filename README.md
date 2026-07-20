@@ -11,6 +11,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
@@ -25,6 +26,7 @@ Daily DSA practice problems and solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
@@ -55,6 +57,7 @@ Daily DSA practice problems and solutions
 | [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -84,6 +87,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
