@@ -8,6 +8,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -57,6 +58,7 @@ Daily DSA practice problems and solutions
 | [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
@@ -121,4 +123,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
