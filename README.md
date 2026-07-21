@@ -60,6 +60,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -77,6 +78,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
