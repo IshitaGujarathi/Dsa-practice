@@ -28,6 +28,7 @@ Daily DSA practice problems and solutions
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
@@ -65,6 +66,7 @@ Daily DSA practice problems and solutions
 | [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
