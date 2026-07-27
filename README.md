@@ -45,6 +45,7 @@ Daily DSA practice problems and solutions
 | [0009-palindrome-number](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -61,6 +62,7 @@ Daily DSA practice problems and solutions
 | [0012-integer-to-roman](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
@@ -131,4 +133,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
