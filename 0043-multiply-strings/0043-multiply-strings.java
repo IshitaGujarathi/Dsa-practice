@@ -1,13 +1,44 @@
-import java.math.BigInteger;
 class Solution {
     public String multiply(String num1, String num2) {
-        BigInteger b = new BigInteger(num1);
-        BigInteger c = new BigInteger(num2);
+      
+        if (num1 == null || num2 == null) {
+            throw new IllegalArgumentException("Input numbers are invalid");
+        }
 
-        BigInteger a = b .multiply(c);
+        int m = num1.length();
+        int n = num2.length();
 
-        String s = a.toString();
+        if (m == 0 || n == 0 || "0".equals(num1) || "0".equals(num2)) {
+            return "0";
+        }
+        if ("1".equals(num1)) {
+            return num2;
+        }
+        if ("1".equals(num2)) {
+            return num1;
+        }
 
-        return s;
+        int[] result = new int[m + n];
+
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                int product = (num1.charAt(i) - '0') * (num2.charAt(j) - '0');
+            
+                product += result[i + j + 1];
+
+                result[i + j + 1] = product % 10;
+                result[i + j] += product / 10;
+            }
+        }
+
+        StringBuilder sb = new StringBuilder();
+        for (int r : result) {
+            if (sb.length() == 0 && r == 0) {
+                continue;
+            }
+            sb.append(r);
+        }
+
+        return sb.toString();
     }
 }
