@@ -39,6 +39,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
 ## String
 |  |
