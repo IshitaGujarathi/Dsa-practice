@@ -43,6 +43,7 @@ Daily DSA practice problems and solutions
 | [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
