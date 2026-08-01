@@ -43,6 +43,7 @@ Daily DSA practice problems and solutions
 | [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -157,4 +159,5 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
