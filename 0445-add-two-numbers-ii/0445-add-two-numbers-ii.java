@@ -1,41 +1,47 @@
-import java.util.Stack;
-
 class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        
+        return prev;
+    }
+
     public ListNode helper(ListNode l1, ListNode l2) {
-        Stack<Integer> stack1 = new Stack<>();
-        Stack<Integer> stack2 = new Stack<>();
-
-        while (l1 != null) {
-            stack1.push(l1.val);
-            l1 = l1.next;
-        }
-
-        while (l2 != null) {
-            stack2.push(l2.val);
-            l2 = l2.next;
-        }
-
-        ListNode result = null;
+        ListNode dummyHead = new ListNode(0);
+        ListNode tail = dummyHead;
         int carry = 0;
 
-        while (!stack1.empty() || !stack2.empty() || carry != 0) {
-            int digit1 = !stack1.empty() ? stack1.pop() : 0;
-            int digit2 = !stack2.empty() ? stack2.pop() : 0;
+        while (l1 != null || l2 != null || carry != 0) {
+            int digit1 = (l1 != null) ? l1.val : 0;
+            int digit2 = (l2 != null) ? l2.val : 0;
 
             int sum = digit1 + digit2 + carry;
             int digit = sum % 10;
             carry = sum / 10;
 
             ListNode newNode = new ListNode(digit);
-            newNode.next = result;
-            result = newNode;
+            tail.next = newNode;
+            tail = tail.next;
+
+            l1 = (l1 != null) ? l1.next : null;
+            l2 = (l2 != null) ? l2.next : null;
         }
 
+        ListNode result = dummyHead.next;
         return result;
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        l1 = reverseList(l1);
+        l2 = reverseList(l2);
         ListNode ans = helper(l1, l2);
-        return ans;
+        return reverseList(ans);
     }
 }
