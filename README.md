@@ -46,6 +46,7 @@ Daily DSA practice problems and solutions
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Daily DSA practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
