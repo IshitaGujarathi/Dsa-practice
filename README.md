@@ -29,6 +29,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@ Daily DSA practice problems and solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -168,4 +170,12 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
