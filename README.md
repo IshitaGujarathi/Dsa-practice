@@ -43,6 +43,7 @@ Daily DSA practice problems and solutions
 | [0002-add-two-numbers](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
@@ -104,6 +105,7 @@ Daily DSA practice problems and solutions
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
