@@ -223,4 +223,8 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
