@@ -175,11 +175,13 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -204,4 +206,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
