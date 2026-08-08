@@ -19,6 +19,7 @@ Daily DSA practice problems and solutions
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -181,6 +182,7 @@ Daily DSA practice problems and solutions
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -220,4 +222,5 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
