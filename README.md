@@ -18,6 +18,7 @@ Daily DSA practice problems and solutions
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -36,6 +37,7 @@ Daily DSA practice problems and solutions
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -178,6 +180,7 @@ Daily DSA practice problems and solutions
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -213,4 +216,8 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
