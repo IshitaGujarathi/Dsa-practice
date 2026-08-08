@@ -89,6 +89,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -140,6 +141,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -178,6 +180,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
@@ -227,4 +230,5 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
