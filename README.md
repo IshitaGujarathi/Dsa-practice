@@ -186,6 +186,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
@@ -195,6 +196,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
