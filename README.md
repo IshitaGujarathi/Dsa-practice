@@ -21,6 +21,7 @@ Daily DSA practice problems and solutions
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -192,6 +193,7 @@ Daily DSA practice problems and solutions
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
