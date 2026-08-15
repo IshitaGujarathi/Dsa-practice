@@ -82,6 +82,7 @@ Daily DSA practice problems and solutions
 | [0203-remove-linked-list-elements](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Daily DSA practice problems and solutions
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -192,6 +194,7 @@ Daily DSA practice problems and solutions
 | [0155-min-stack](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
