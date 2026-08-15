@@ -14,6 +14,7 @@ Daily DSA practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
@@ -187,6 +188,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
@@ -233,6 +235,7 @@ Daily DSA practice problems and solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
@@ -257,4 +260,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
