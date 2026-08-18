@@ -22,6 +22,7 @@ Daily DSA practice problems and solutions
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -59,6 +60,7 @@ Daily DSA practice problems and solutions
 | [0237-delete-node-in-a-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ Daily DSA practice problems and solutions
 | [0155-min-stack](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
