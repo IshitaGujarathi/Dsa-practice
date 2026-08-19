@@ -24,6 +24,7 @@ Daily DSA practice problems and solutions
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -271,4 +272,12 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
