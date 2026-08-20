@@ -15,6 +15,7 @@ Daily DSA practice problems and solutions
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ Daily DSA practice problems and solutions
 | [0013-roman-to-integer](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
@@ -127,6 +129,7 @@ Daily DSA practice problems and solutions
 | [0061-rotate-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
