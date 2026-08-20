@@ -23,6 +23,7 @@ Daily DSA practice problems and solutions
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -172,6 +173,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
 | ------- |
