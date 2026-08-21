@@ -29,6 +29,7 @@ Daily DSA practice problems and solutions
 | [0739-daily-temperatures](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ Daily DSA practice problems and solutions
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -181,9 +183,11 @@ Daily DSA practice problems and solutions
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0704-binary-search) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
@@ -197,6 +201,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +312,8 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
