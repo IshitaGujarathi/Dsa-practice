@@ -20,6 +20,7 @@ Daily DSA practice problems and solutions
 | [0229-majority-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0454-4sum-ii) |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
@@ -223,6 +225,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +234,7 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -285,4 +289,20 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
