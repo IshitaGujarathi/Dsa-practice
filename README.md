@@ -82,6 +82,7 @@ Daily DSA practice problems and solutions
 | [0445-add-two-numbers-ii](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/1025-divisor-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
