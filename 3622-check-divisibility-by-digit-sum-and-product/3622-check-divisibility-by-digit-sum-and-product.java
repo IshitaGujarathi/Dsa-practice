@@ -1,21 +1,16 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        return (n%(sum(n)+product(n)))==0;
-    }
-    public int sum(int n){
-        int sum=0,val=n;
-        while(val>0){
-            sum+=val%10;
-            val/=10;
+        int num = n, sum=0, prod=1;
+
+        while(n!=0)
+        {
+            int dig = n%10;
+             sum+= dig;
+             prod *= dig;
+             n/=10;
         }
-        return sum;
-    }
-    public int product(int n){
-        int pro=1,val=n;
-        while(val>0){
-            pro*=val%10;
-            val/=10;
-        }
-        return pro;
+        if(num % (sum+prod)==0) return true;
+
+        return false;
     }
 }
