@@ -12,6 +12,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -325,4 +326,5 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
