@@ -31,6 +31,7 @@ Daily DSA practice problems and solutions
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ Daily DSA practice problems and solutions
 | [0496-next-greater-element-i](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Daily DSA practice problems and solutions
 | ------- |
 | [0231-power-of-two](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -298,10 +301,12 @@ Daily DSA practice problems and solutions
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Indexed Tree
 |  |
 | ------- |
