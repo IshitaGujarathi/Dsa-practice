@@ -12,6 +12,7 @@ Daily DSA practice problems and solutions
 | [0015-3sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0056-merge-intervals) |
@@ -187,6 +188,7 @@ Daily DSA practice problems and solutions
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/IshitaGujarathi/Dsa-practice/tree/master/0704-binary-search) |
